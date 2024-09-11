@@ -1,0 +1,1 @@
+# Smart-city-Waste-Management-System-with-connected-Trash-Cans
